@@ -1,0 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.banner{
+    background-color: #d81c82;
+}
+.service{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width:100%;
+	background: pink;
+}
+.product{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width:100%;
+	background: teal;
+}
+.curve_text{
+	min-height: 50px !important;
+}
+#text3{
+       margin: 0 auto;
+       overflow: hidden;
+       font: normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+       color: #ffffff;
+}
